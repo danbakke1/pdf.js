@@ -55,7 +55,9 @@
     "vinyl": "^3.0.0",
     "webpack": "^5.98.0",
     "webpack-stream": "^7.0.0",
-    "yargs": "^17.7.2"
+    "yargs": "^17.7.2",
+    "pdfjs-dist": "3.11.174"
+}
   },
   "repository": {
     "type": "git",
